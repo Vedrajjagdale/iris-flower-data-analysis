@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Data Analysis
+#  Iris Flower Data Analysis
 
 This project performs exploratory data analysis (EDA) and classification on the Iris Flower Dataset.
 
