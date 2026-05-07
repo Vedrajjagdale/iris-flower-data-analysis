@@ -11,8 +11,8 @@ This project performs exploratory data analysis (EDA) and classification on the 
 - **Libraries:** [Pandas](https://pydata.org), [Seaborn](https://pydata.org),
 
 
-## 🚀 How to Run
+## How to Run
 1. Install dependencies: 
    `pip install pandas seaborn scikit-learn`
 2. Run the analysis script: 
-   `python main.py`
+   `open and run the analyze.py
